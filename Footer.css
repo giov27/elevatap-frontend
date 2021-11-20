@@ -1,0 +1,20 @@
+.footer__background {
+  background-color: rgb(26, 23, 3, 60%);
+  color: white !important;
+}
+
+.footer__background ul {
+  list-style: none;
+  text-decoration: none;
+  color: white;
+}
+
+.footer__background a {
+  text-decoration: none;
+  color: white;
+}
+
+.footer__background a:hover {
+  text-decoration: none;
+  color: #01C7E2;
+}
